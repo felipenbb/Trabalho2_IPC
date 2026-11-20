@@ -1,0 +1,6 @@
+*.o
+*.exe
+*.dat
+lampisteria
+lamp_asan
+teste
